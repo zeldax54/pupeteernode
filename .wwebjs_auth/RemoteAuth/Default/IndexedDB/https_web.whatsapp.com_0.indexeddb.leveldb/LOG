@@ -1,0 +1,10 @@
+2023/06/11-18:53:18.490 ac20 Creating DB C:\Users\HL\OneDrive\Escritorio\webrepo\pupeteernode\.wwebjs_auth\RemoteAuth\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2023/06/11-18:53:18.550 ac20 Reusing MANIFEST C:\Users\HL\OneDrive\Escritorio\webrepo\pupeteernode\.wwebjs_auth\RemoteAuth\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/11-18:53:19.133 bc24 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/06/11-18:53:22.634 bc24 Level-0 table #5: started
+2023/06/11-18:53:22.652 bc24 Level-0 table #5: 26152 bytes OK
+2023/06/11-18:53:22.658 bc24 Delete type=0 #3
+2023/06/11-18:53:22.662 bc24 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/06/11-18:53:42.468 3894 Level-0 table #7: started
+2023/06/11-18:53:42.609 3894 Level-0 table #7: 1166829 bytes OK
+2023/06/11-18:53:42.613 3894 Delete type=0 #4
